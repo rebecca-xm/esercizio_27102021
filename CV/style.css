@@ -1,0 +1,53 @@
+/* nome e cognome */
+header {
+    background-color: black;
+    color: aliceblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    padding: 20px;
+
+}
+
+/* body */
+body {
+    padding: 25px;
+    background-color: aliceblue;
+    color: black;
+    font-size: 25px;
+}
+
+/* competenze e hobbies */
+.wrapper {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    padding: 20px;
+    border-style: solid;
+    margin-top: 20px;
+}
+.wrapperTwo {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    padding: 20px;
+    border-style: solid;
+    margin-top: 20px;
+}
+
+/* dark mode button */
+.enableDarkMode {
+    position: absolute;
+    background-color: black;
+    top: 80px;
+    right: 80px;
+}
+.darkMode {
+    background-color: black; 
+    color: aliceblue;
+}
+.enableLightMode {
+    position: relative;
+    background-color:black;
+}
+.lightMode {
+    background-color: lightgray; 
+    color: black;
+}
